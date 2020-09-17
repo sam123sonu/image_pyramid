@@ -1,0 +1,3 @@
+# image_pyramid
+using 2 method to create image pyramid
+gaussian and laplacian(works for edge_detection also...)
